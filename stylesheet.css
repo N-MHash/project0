@@ -1,0 +1,21 @@
+#header{
+  background-color: #343a40;
+}
+
+#title {
+  padding-top: 10px;
+  color: #e0dede;
+  text-align: center;
+}
+
+.nav-link{
+  color: #c7c7c7;
+}
+
+.nav-link:hover{
+  color: #ffff;
+}
+
+#section{
+  background-color: #f3f3f3d9;
+}
